@@ -4,7 +4,7 @@ How to make smart BMI Calculator using Flutter?
 
 This is a BMI Calculator project which is used using FLUTTER. This app has lots of functions and a few animations. Don't think about UI Design. I'm not an expert in UI designing.
 
-[BMI Calculator in Flutter](https://github.com/Ramesh-Nuwan/BMI_Calculator/blob/be3f2279d1d50c582ce5df6d8629d43d4d35a03d/Screenshot_1641457483.png?raw=true)
+![BMI Calculator in Flutter](https://github.com/Ramesh-Nuwan/BMI_Calculator/blob/be3f2279d1d50c582ce5df6d8629d43d4d35a03d/Screenshot_1641457483.png?raw=true)
 
 ## Getting Started
 
