@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[![BMI Calculator in Flutter](https://github.com/Ramesh-Nuwan/BMI_Calculator/blob/be3f2279d1d50c582ce5df6d8629d43d4d35a03d/Screenshot_1641457483.png?raw=true)]
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
